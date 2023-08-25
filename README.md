@@ -1,2 +1,2 @@
 # HSSR
-High-Speed Spiking Recognition
+**H**igh-**S**peed **S**piking **R**ecognition (HSSR)
