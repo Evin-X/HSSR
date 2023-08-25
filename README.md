@@ -1,2 +1,3 @@
-# HSSR
-**H**igh-**S**peed **S**piking **R**ecognition (HSSR)
+# UHSR
+**U**ltra-**H**igh-**S**peed spiking **R**ecognition 
+
