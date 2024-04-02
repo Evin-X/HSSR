@@ -4,8 +4,7 @@
 
 #### __$\bullet$ Introduction__
 
-Frame cameras suffer from limited shutter speed and motion blur, which causes a substantial deficiency in latency and accuracy when recognizing high-speed objects. Spike
-cameras have a high temporal resolution (i.e., 50𝜇𝑠), leading to a stronger capability of recording high-speed motions, as illustrated in the following,
+Frame cameras suffer from limited shutter speed and motion blur, which causes a substantial deficiency in latency and accuracy when recognizing high-speed objects. Spike cameras have a high temporal resolution (i.e., 50𝜇𝑠), leading to a stronger capability of recording high-speed motions, as illustrated in the following,
 
 <div align=center>
 <img alt="Figure 1 width="50%" src="https://github.com/Evin-X/HSSR/blob/main/Figure/intro.png"/>
