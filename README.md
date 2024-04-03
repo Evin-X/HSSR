@@ -1,5 +1,5 @@
 # HSSR
-**H**igh-**S**peed **S**piking **R**ecognition.
+**H**igh-**S**peed **S**piking **R**ecognition (**HSSR**).
 
 
 #### __$\bullet$ Introduction__
